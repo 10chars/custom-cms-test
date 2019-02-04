@@ -87,5 +87,6 @@ module.exports = {
     },
     'gatsby-plugin-offline',
     'gatsby-plugin-typescript',
+    'gatsby-plugin-netlify-cms'
   ],
 }

@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: 10chars/custom-cms-test
+  base_url: https://10chars-netlify-cms-auth.now.sh
 
 media_folder: static/assets
 public_folder: assets

@@ -1,0 +1,23 @@
+---
+date: 2019-02-04T07:54:46.096Z
+title: React Alex
+banner: /assets/social-hocks.png
+category: React
+shape: corner
+author: Luke Helg
+---
+The Gnat & the Bull
+
+A Gnat flew over the meadow with much buzzing for so small a creature and settled on the tip of one of the horns of a Bull. After he had rested a short time, he made ready to fly away. But before he left he begged the Bull's pardon for having used his horn for a resting place.
+
+
+
+"You must be very glad to have me go now," he said.
+
+
+
+"It's all the same to me," replied the Bull. "I did not even know you were there."
+
+
+
+We are often of greater importance in our own eyes than in the eyes of our neighbor. The smaller the mind the greater the conceit.

@@ -1,0 +1,14 @@
+{
+  "name": "custom-cms-test",
+  "alias": [
+    "custom-cms-test.now.sh"
+  ],
+  "github": {
+    "enabled": true,
+    "autoAlias": false
+  },
+  "builds": [
+    { "src": "package.json", "use": "@now/static-build", "config": {"distDir": "public"} }
+  ],
+  "version": 2
+}
